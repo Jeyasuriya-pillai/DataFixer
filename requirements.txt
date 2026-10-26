@@ -1,6 +1,7 @@
 streamlit
-pyspark
 pandas
-openpyxl
-plotly
 numpy
+plotly
+openpyxl
+pyspark
+xlrd
